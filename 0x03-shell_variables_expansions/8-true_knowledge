@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (($TRUEKNOWLEDGE+128))
+echo export TRUEKNOWLEDGE=217 (($TRUEKNOWLEDGE+128))

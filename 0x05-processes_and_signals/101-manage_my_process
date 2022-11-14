@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-# Manages the script manage_my_process.
+#!/usr/bin/env/bash
+#   Manages the script manage_my_process.
 #   When passed the argument `start`:
 #     1. Starts manage_my_process
 #     2. Creates a file containings its PID in /var/run/my_process.pid
